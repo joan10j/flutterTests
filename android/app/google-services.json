@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1096172553591",
+    "firebase_url": "https://socialtest-c5ffa.firebaseio.com",
+    "project_id": "socialtest-c5ffa",
+    "storage_bucket": "socialtest-c5ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096172553591:android:27243c4aed290ae5",
+        "android_client_info": {
+          "package_name": "com.example.flutter1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096172553591-6u3mtbuu655954hhqbq68vkmpm3k4bjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter1_0",
+            "certificate_hash": "5b64c599e33add06cad07730f3b2c01eb19493f5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1F0H6kcc6-X_e1_MZdEfDiSXKWwi2jnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096172553591-rrqh7spsmg438ebbuetcua3fm6vp7c3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
